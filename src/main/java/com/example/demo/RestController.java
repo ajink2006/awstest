@@ -8,7 +8,7 @@ public class RestController {
 	@GetMapping("hi")
 	String sayHi()
 	{
-		return "Hi Ajit";
+		return "Hi Ajit..changed now in local";
 	}
 	
 }
